@@ -26,3 +26,7 @@ Success!
 3 Succeeded, 0 Failed
 Bibtex saved to test.bib
 ```
+
+## Note
+This is a quick implementation that likely works for most paper titles, but please expected issues to be fixed in later iterations.
+
